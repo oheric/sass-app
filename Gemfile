@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 gem 'mongoid', github: 'mongoid/mongoid'
 
+gem 'rails_12factor'
+
 gem 'bootstrap-sass', '~> 3.2.0'
 
 # Use SCSS for stylesheets
